@@ -1,2 +1,2 @@
 # Quantum-Challenges
-Notebooks of participations in Qiskit's Quantum Challenges.
+Jupyter notebooks of Qiskit's Quantum Challenges. Solutions provided by myself.
